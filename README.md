@@ -1,7 +1,4 @@
-{{cookiecutter.project_name}}
-==============================
-
-{{cookiecutter.description}}
+Phishing-Detection
 
 Project Organization
 ------------
